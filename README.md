@@ -1,0 +1,1 @@
+# scoping-javaScript-hoisting-indow-object
